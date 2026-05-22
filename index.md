@@ -2,7 +2,7 @@
 
 This Privacy Policy applies to the mobile application Alazal Platform (منصة الأزل), developed and published by Safaa Jassim.
 
-**Effective Date:** April 18, 2026
+**Effective Date:** May 22, 2026
 
 We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application. Please read this Privacy Policy carefully. 
 

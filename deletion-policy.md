@@ -1,6 +1,6 @@
 # Data Deletion Policy
 
-**Effective Date:** April 13, 2026
+**Effective Date:** May 22, 2026
 
 Alazal Platform respects your right to manage your personal data. This policy outlines how you can request the deletion of your account and associated personal information.
 

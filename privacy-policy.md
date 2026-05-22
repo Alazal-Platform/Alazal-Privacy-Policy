@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** April 17, 2026
+**Effective Date:** May 22, 2026
 
 Safaa Jassim ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, Alazal platform (the "App"). Please read this Privacy Policy carefully. 
 
